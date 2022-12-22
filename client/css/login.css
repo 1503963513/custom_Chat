@@ -1,0 +1,8 @@
+.div_login {
+  width: 200px;
+  height: 200px;
+  background-color: #e8e8e8;
+  position: absolute;
+  left: calc(50% - 100px);
+  top: calc(50% - 100px);
+}
